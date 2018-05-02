@@ -7,7 +7,7 @@ require './config'
 ENV['TZ'] = 'JST-9'
 
 #ボットのアカウント名
-username = "hplbottest"
+username = "YOUR TWITTER ID"
 
 #TLを監視
 @streamingClient.user do |tweet|
